@@ -13,5 +13,3 @@ This project involves developing a Linux kernel module that monitors running pro
 - **Linux Kernel APIs**: `task_struct`, `kprobes`, `procfs`, `seq_file`, etc.
 - **Make**: For automating the build process.
 - **Ubuntu/WSL**: Development environment.
-
-## Project Structure
